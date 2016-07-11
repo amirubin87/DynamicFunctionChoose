@@ -1,0 +1,7 @@
+
+Per-feature gain summary for the boosted tree ensemble:
+	f1	1
+	f5	0.528369266754784
+	f4	0.266451732727452
+	f8	0.182233935532947
+	f9	0.0967353187879148
